@@ -1,0 +1,14 @@
+Music Genre Classification - Results Summary
+==================================================
+
+Dataset: 1500 songs, 10 numerical features, 10 genres
+Features used: tempo, acousticness, energy, danceability, instrumentalness, valence, loudness, speechiness, liveness, duration_ms
+
+KNN
+  Best hyperparameters: {'n_neighbors': 11, 'weights': 'distance'}
+  Test Accuracy: 0.7300
+
+SVM
+  Best hyperparameters: {'C': 50, 'gamma': 0.01, 'kernel': 'rbf'}
+  Test Accuracy: 0.7700
+
