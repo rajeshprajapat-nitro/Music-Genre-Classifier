@@ -85,7 +85,7 @@ This opens `http://localhost:8501` in your browser automatically.
   per-class precision/recall/F1 (via `classification_report`), so you can
   see *which* genres get confused with each other (e.g. rock/country/blues
   often overlap acoustically — a genuinely interesting decision-boundary
-  problem, not a trivial one).
+  problem, not a trivial one) .
 
 ## 📊 Sample results (synthetic data)
 | Model | Accuracy | Best Params |
