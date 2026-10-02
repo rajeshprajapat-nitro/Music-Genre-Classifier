@@ -3,7 +3,7 @@
 Classifies songs into 10 genres — `classical, jazz, blues, country, reggae,
 pop, rock, disco, hiphop, metal` — using **only numerical audio features**
 (tempo, acousticness, energy, danceability, instrumentalness, valence,
-loudness, speechiness, liveness, duration_ms) .
+loudness, speechiness, liveness, duration_ms).
 
 ## ⚠️ About the dataset
 This project was built to run against the real **GTZAN** audio-features
